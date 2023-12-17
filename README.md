@@ -1,4 +1,4 @@
-#Local-Library-Thinkful-Project
+##Local-Library-Thinkful-Project
 
 The following is a local library project that I completed through the Thinkful's Web Development Program. 
 
